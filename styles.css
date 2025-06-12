@@ -23,8 +23,11 @@
 }
 
 .video-box video {
-    min-height: 100%;
-    min-width: 100%;
+    /* min-height: 100%; */
+    /* min-width: 100%; */
+
+    width: 100vw;
+    height: 100vh;
     position: fixed;
     top: 0;
 }
